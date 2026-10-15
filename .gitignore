@@ -1,0 +1,12 @@
+# Environnement
+venv/
+__pycache__/
+*.pyc
+
+# Données personnelles (visages, profils, journaux)
+data/users/
+data/users.json
+*.pkl
+*.log
+zr_shield_log.txt
+zr_shield_config.json
