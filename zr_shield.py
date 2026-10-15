@@ -4,7 +4,7 @@ Protection visuelle de l'écran contre les regards indiscrets.
 
 BMM Systems, projet ZYRHA OS
 Auteure : Bella Marie Mathilde
-Master 1 Cybersécurité et IA, Keyce Informatique, Yaoundé
+Master 2 Cybersécurité et Blockchain, Keyce Informatique, Yaoundé
 
 Principe
     La webcam surveille l'environnement. Le propriétaire est reconnu par
@@ -2254,7 +2254,7 @@ class MainWindow(QMainWindow):
         crl.addWidget(eyebrow("Conception"))
         crl.addSpacing(6)
         crl.addWidget(make_label("Bella Marie Mathilde", "h2"))
-        crl.addWidget(make_label("Master 1 Cybersécurité et IA, Keyce Informatique, Yaoundé", "muted"))
+        crl.addWidget(make_label("Master 2 Cybersécurité et Blockchain, Keyce Informatique, Yaoundé", "muted"))
         crl.addWidget(make_label("Projet ZYRHA OS, BMM Systems", "faint"))
         lay.addWidget(cred)
         lay.addStretch()

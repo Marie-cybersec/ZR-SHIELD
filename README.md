@@ -7,7 +7,7 @@ ZR-SHIELD utilise la webcam pour surveiller ce qui se passe autour de votre post
 Vous continuez à lire et à écrire normalement dans cette zone. La personne derrière vous, elle, ne voit qu'une image dégradée.
 
 > Projet **ZYRHA OS**, BMM Systems
-> Bella Marie Mathilde, Master 1 Cybersécurité et IA, Keyce Informatique, Yaoundé
+> Bella Marie Mathilde, Master 2 Cybersécurité et Blockchain, Keyce Informatique, Yaoundé
 
 ---
 
